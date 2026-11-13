@@ -116,18 +116,18 @@ status: "SYSTEM.ONLINE // READY_TO_BUILD"
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h4>🌐 Frontend & Web Systems</h4>
+      <h4>⚙️ Spring & Backend Systems</h4>
       <ul>
-        <li><a href="https://nicebyy.github.io/posts/nextjs-github-pages-architecture/"><b>Next.js GitHub Pages 아키텍처</b></a><br/><sub>정적 블로그 완전 자동 배포 파이프라인</sub></li>
-        <li><a href="https://nicebyy.github.io/posts/interactive-terminal-ui-design/"><b>인터랙티브 터미널 UI 설계</b></a><br/><sub>사이버펑크 네온 디자인 시스템 구축기</sub></li>
-        <li><a href="https://nicebyy.github.io/posts/giscus-comments-setup-guide/"><b>Giscus 댓글 연동 가이드</b></a><br/><sub>GitHub Discussions 기반 무서버 댓글</sub></li>
+        <li><a href="https://nicebyy.github.io/posts/spring-concurrency-redisson-mysql-named-lock/"><b>Spring 동시성 제어</b></a><br/><sub>Redisson 분산 락 vs MySQL Named Lock</sub></li>
+        <li><a href="https://nicebyy.github.io/posts/spring-security-setup/"><b>Spring Security 아키텍처</b></a><br/><sub>보안 필터 체인 및 인증 메커니즘</sub></li>
+        <li><a href="https://nicebyy.github.io/posts/spring-webflux-introduction/"><b>Spring WebFlux 입문</b></a><br/><sub>리액티브 스트림과 Non-blocking I/O</sub></li>
       </ul>
     </td>
     <td width="33%" valign="top">
-      <h4>⚙️ Backend & Architecture</h4>
+      <h4>🗄️ JPA & Persistence</h4>
       <ul>
-        <li><a href="https://nicebyy.github.io/posts/spring-concurrency-redisson-mysql-named-lock/"><b>Spring 동시성 제어</b></a><br/><sub>Redisson 분산 락 vs MySQL Named Lock</sub></li>
         <li><a href="https://nicebyy.github.io/posts/jpa-overview-persistence-context/"><b>JPA 영속성 컨텍스트 심층 분석</b></a><br/><sub>1차 캐시, 쓰기 지연, 변경 감지 메커니즘</sub></li>
+        <li><a href="https://nicebyy.github.io/posts/jpa-persistence-context-identity/"><b>JPA 동일성과 생명주기</b></a><br/><sub>영속성 컨텍스트 엔티티 식별성 보장</sub></li>
         <li><a href="https://nicebyy.github.io/posts/spring-boot-datasource-encryption/"><b>DataSource 암호화 및 보안</b></a><br/><sub>실무 환경 DB 자격증명 암호화 패턴</sub></li>
       </ul>
     </td>
