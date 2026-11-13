@@ -1,11 +1,15 @@
 <div align="center">
 
-  <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070e,40:0d1a33,70:1a0b2e,100:2b0938&height=200&section=header&text=kimkkatta%20//%20DEV.LOG&fontSize=42&fontColor=00f3ff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%26%20Frontend%20Developer&descSize=18&descAlignY=62&descAlign=50" width="100%" alt="Header" />
+  <!-- Self-hosted Cyberpunk Header Banner -->
+  <a href="https://nicebyy.github.io">
+    <img src="./assets/header.svg" width="100%" alt="kimkkatta DEV.LOG Header" />
+  </a>
+
+  <br/><br/>
 
   <!-- Dynamic Typing Console -->
   <a href="https://nicebyy.github.io">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F3FF&center=true&vCenter=true&width=650&height=50&lines=%3E+SYSTEM.ONLINE+%2F%2F+kimkkatta+NODE;%3E+Full-Stack+%26+Frontend+Developer;%3E+Next.js+%E2%80%A2+React+%E2%80%A2+TypeScript+%E2%80%A2+Spring+Boot;%3E+Exploring+Interactive+Web+%26+Clean+Architecture" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=00F3FF&center=true&vCenter=true&width=650&height=40&lines=%3E+SYSTEM.ONLINE+%2F%2F+kimkkatta+NODE;%3E+Backend+%26+Full-Stack+Engineer;%3E+Java+%E2%80%A2+Spring+Boot+%E2%80%A2+JPA+%E2%80%A2+Redis;%3E+Exploring+Distributed+Systems+%26+Architecture" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -14,10 +18,13 @@
   <a href="https://nicebyy.github.io">
     <img src="https://img.shields.io/badge/TECH_BLOG-nicebyy.github.io-00f3ff?style=for-the-badge&logo=googlechrome&logoColor=05070e&labelColor=05070e" alt="Blog" />
   </a>
+  &nbsp;
   <a href="https://github.com/nicebyy">
     <img src="https://img.shields.io/badge/GITHUB-nicebyy-ff007f?style=for-the-badge&logo=github&logoColor=white&labelColor=05070e" alt="GitHub" />
   </a>
+  &nbsp;
   <img src="https://img.shields.io/badge/LOCATION-Seoul,_KR-00ff9d?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=05070e" alt="Location" />
+  &nbsp;
   <img src="https://komarev.com/ghpvc/?username=nicebyy&label=PROFILE+VIEWS&color=00f3ff&style=for-the-badge&base=100" alt="Profile Views" />
 
 </div>
@@ -148,13 +155,20 @@ status: "SYSTEM.ONLINE // READY_TO_BUILD"
 
 <div align="center">
 
-  [![Tech Blog](https://img.shields.io/badge/Tech_Blog-nicebyy.github.io-00f3ff?style=for-the-badge&logo=googlechrome&logoColor=05070e&labelColor=05070e)](https://nicebyy.github.io)
-  [![GitHub](https://img.shields.io/badge/GitHub-nicebyy-ff007f?style=for-the-badge&logo=github&logoColor=white&labelColor=05070e)](https://github.com/nicebyy)
-  [![Email](https://img.shields.io/badge/Email-Contact_Me-00ff9d?style=for-the-badge&logo=maildotru&logoColor=05070e&labelColor=05070e)](mailto:nicebyy@users.noreply.github.com)
+  <a href="https://nicebyy.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/TECH_BLOG-nicebyy.github.io-00f3ff?style=for-the-badge&logo=googlechrome&logoColor=05070e&labelColor=05070e" alt="Tech Blog" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/nicebyy" target="_blank">
+    <img src="https://img.shields.io/badge/GITHUB-nicebyy-ff007f?style=for-the-badge&logo=github&logoColor=white&labelColor=05070e" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="mailto:nicebyy@naver.com">
+    <img src="https://img.shields.io/badge/EMAIL-nicebyy@naver.com-00ff9d?style=for-the-badge&logo=naver&logoColor=white&labelColor=05070e" alt="Email" />
+  </a>
 
   <br/><br/>
 
-  <!-- Footer Wave -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b0938,40:1a0b2e,70:0d1a33,100:05070e&height=100&section=footer" width="100%" alt="Footer" />
+  <sub>⚡ Powered by <b>kimkkatta</b> // Built with Cyberpunk Neon Aesthetic &amp; Next.js</sub>
 
 </div>
