@@ -151,20 +151,22 @@ status: "SYSTEM.ONLINE // READY_TO_BUILD"
 
 ---
 
-### 📬 Connect & Contact
+### 📬 Connect & Inquiry // 문의하기
 
 <div align="center">
 
+  <p>프로젝트 협업 제안, 기술 질문, 개발 관련 문의는 언제든 환영합니다.</p>
+
+  <a href="mailto:nicebyy@naver.com?subject=%5Bkimkkatta%20GitHub%5D%20안녕하세요,%20문의드립니다">
+    <img src="https://img.shields.io/badge/SEND_EMAIL-nicebyy@naver.com-00ff9d?style=for-the-badge&logo=naver&logoColor=white&labelColor=05070e" alt="Send Email" />
+  </a>
+  &nbsp;
   <a href="https://nicebyy.github.io" target="_blank">
     <img src="https://img.shields.io/badge/TECH_BLOG-nicebyy.github.io-00f3ff?style=for-the-badge&logo=googlechrome&logoColor=05070e&labelColor=05070e" alt="Tech Blog" />
   </a>
   &nbsp;
   <a href="https://github.com/nicebyy" target="_blank">
     <img src="https://img.shields.io/badge/GITHUB-nicebyy-ff007f?style=for-the-badge&logo=github&logoColor=white&labelColor=05070e" alt="GitHub" />
-  </a>
-  &nbsp;
-  <a href="mailto:nicebyy@naver.com">
-    <img src="https://img.shields.io/badge/EMAIL-nicebyy@naver.com-00ff9d?style=for-the-badge&logo=naver&logoColor=white&labelColor=05070e" alt="Email" />
   </a>
 
   <br/><br/>
